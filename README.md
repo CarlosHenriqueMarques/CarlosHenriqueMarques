@@ -1,7 +1,7 @@
 ### Welcome to my repository, I am Carlos Marques 👋
 
 - 🔭 I’m currently working on C# and .NET Core 5
-- 🌱 I’m currently learning Maui Framework and .NET Core 6
+- 🌱 I’m currently learning .NET6/Maui
 - 📫 How to reach me: carlos.marques89@gmail.com
 
 <div>
