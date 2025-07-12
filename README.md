@@ -1,7 +1,7 @@
 ### Welcome to my repository, I am Carlos Marques 👋
 
-- 🔭 I’m currently working on C# and .NET Core 6
-- 🌱 I’m currently learning VueJs
+- 🔭 I’m currently working on C# and .NET Core 
+- 🌱 I’m currently learning VueJs and Kotlin (Mobile App)
 - 📫 How to reach me: carlos.marques89@gmail.com
 
 <div>
